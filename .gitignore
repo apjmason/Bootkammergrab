@@ -1,0 +1,82 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+/[Bb]uilds/
+/Assets/AssetStoreTools*
+*.pidb.meta
+sysinfo.txt
+
+# ============================================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ============================================= #
+[Ee]xported[Oo]bj/
+.vs/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln*
+*.svd
+*.tmp
+*.user
+*.unityproj
+*.booproj
+.idea*/
+Assembly-CSharp-Editor-firstpass-vs.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-CSharp-Editor-firstpass.pidb
+Assembly-CSharp-Editor-vs.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-Editor.pidb
+Assembly-CSharp-firstpass-vs.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp-firstpass.pidb
+Assembly-CSharp-vs.csproj
+Assembly-CSharp.csproj
+Assembly-CSharp.pidb
+Assembly-UnityScript-Editor-firstpass-vs.unityproj
+Assembly-UnityScript-Editor-firstpass.pidb
+Assembly-UnityScript-Editor-firstpass.unityproj
+Assembly-UnityScript-Editor-vs.unityproj
+Assembly-UnityScript-Editor.pidb
+Assembly-UnityScript-Editor.unityproj
+Assembly-UnityScript-firstpass-vs.unityproj
+Assembly-UnityScript-firstpass.pidb
+Assembly-UnityScript-firstpass.unityproj
+Assembly-UnityScript-vs.unityproj
+Assembly-UnityScript.pidb
+Assembly-UnityScript.unityProj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# ====== #
+# Builds #
+# ====== #
+*.apk
+*.unitypackage
+
+# ================ #
+# Project-specific #
+# ================ #
+[Ii]gnored/
+Standard\ Assets/
+Standard\ Assets.meta
+CrossPlatformInput/
+CrossPlatformInput.meta
+
+ProjectSettings/
