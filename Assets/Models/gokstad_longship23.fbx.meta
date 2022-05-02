@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: e67af7f363c9146bdb88d9d758bd44ca
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Brace - Inside
+    100002: Brace - Outside
+    100004: Cross Beam 01
+    100006: Cross Beam 02
+    100008: Cross Beam 03
+    100010: Cross Beam 04
+    100012: Cross Beam 05
+    100014: Cross Beam 06
+    100016: Cross Beam 13
+    100018: Cross Beam 14
+    100020: Cross Beam 15
+    100022: Cross Beam 16
+    100024: Cross Beam 17
+    100026: Cross Beam 17a
+    100028: Cross Beam 18
+    100030: Cross Beam 18a
+    100032: Front  Stanchion Pole Base
+    100034: Front Stanchion Base
+    100036: Front Stanchion Fish
+    100038: Front Stanchion Post
+    100040: Front Stancion Base Hole
+    100042: //RootNode
+    100044: Gunwale
+    100046: Hull Mounting - 1
+    100048: Hull Mounting - 2
+    100050: Keel
+    100052: Keelson Mesh
+    100054: Knee 01
+    100056: Knee 02
+    100058: Knee 03
+    100060: Knee 04
+    100062: Knee 05
+    100064: Knee 06
+    100066: Knee 07
+    100068: Knee 08
+    100070: Knee 09
+    100072: Knee 10
+    100074: Knee 11
+    100076: Knee 13
+    100078: Knee 14
+    100080: Knee 15
+    100082: Knee 16
+    100084: Knee 17
+    100086: Knee 18
+    100088: Knee 19
+    100090: Knee, Upper 02
+    100092: Knee, Upper 04
+    100094: Knee, Upper 06
+    100096: Knee, Upper 08
+    100098: Knee, Upper 10
+    100100: Knee, Upper 14
+    100102: Knee, Upper 16
+    100104: Knee, Upper 18
+    100106: Mast
+    100108: Mast Lock
+    100110: Mastfish
+    100112: Mastfish Base
+    100114: Neck
+    100116: Oar 01a
+    100118: Oar 01b
+    100120: Oar 02a
+    100122: Oar 02b
+    100124: Oar 03a
+    100126: Oar 03b
+    100128: Oar 04a
+    100130: Oar 04b
+    100132: Oar 05a
+    100134: Oar 05b
+    100136: Oar 06a
+    100138: Oar 06b
+    100140: Oar 07a
+    100142: Oar 07b
+    100144: Oar 08a
+    100146: Oar 08b
+    100148: Oar 09a
+    100150: Oar 09b
+    100152: Oar 10a
+    100154: Oar 10b
+    100156: Oar 11a
+    100158: Oar 11b
+    100160: Oar 12a
+    100162: Oar 12b
+    100164: Oar 13a
+    100166: Oar 13b
+    100168: Oar 14a
+    100170: Oar 14b
+    100172: Oar 15a
+    100174: Oar 15b
+    100176: Oar 16a
+    100178: Oar 16b
+    100180: Rear Stanchion Base
+    100182: Rear Stanchion Fish
+    100184: Rear Stanchion Pole Base
+    100186: Rear Stanchion Post
+    100188: Rear Stancion Base Hole
+    100190: Strake 01
+    100192: Strake 02
+    100194: Strake 03
+    100196: Strake 04
+    100198: Strake 05
+    100200: Strake 06
+    100202: Strake 07
+    100204: Strake 08
+    100206: Strake 09
+    100208: Strake 10
+    100210: Strake 11
+    100212: Strake 12
+    100214: Strake 13
+    100216: Strake 14
+    100218: Strake 15
+    100220: Strake 16
+    100222: Tiller
+    400000: Brace - Inside
+    400002: Brace - Outside
+    400004: Cross Beam 01
+    400006: Cross Beam 02
+    400008: Cross Beam 03
+    400010: Cross Beam 04
+    400012: Cross Beam 05
+    400014: Cross Beam 06
+    400016: Cross Beam 13
+    400018: Cross Beam 14
+    400020: Cross Beam 15
+    400022: Cross Beam 16
+    400024: Cross Beam 17
+    400026: Cross Beam 17a
+    400028: Cross Beam 18
+    400030: Cross Beam 18a
+    400032: Front  Stanchion Pole Base
+    400034: Front Stanchion Base
+    400036: Front Stanchion Fish
+    400038: Front Stanchion Post
+    400040: Front Stancion Base Hole
+    400042: //RootNode
+    400044: Gunwale
+    400046: Hull Mounting - 1
+    400048: Hull Mounting - 2
+    400050: Keel
+    400052: Keelson Mesh
+    400054: Knee 01
+    400056: Knee 02
+    400058: Knee 03
+    400060: Knee 04
+    400062: Knee 05
+    400064: Knee 06
+    400066: Knee 07
+    400068: Knee 08
+    400070: Knee 09
+    400072: Knee 10
+    400074: Knee 11
+    400076: Knee 13
+    400078: Knee 14
+    400080: Knee 15
+    400082: Knee 16
+    400084: Knee 17
+    400086: Knee 18
+    400088: Knee 19
+    400090: Knee, Upper 02
+    400092: Knee, Upper 04
+    400094: Knee, Upper 06
+    400096: Knee, Upper 08
+    400098: Knee, Upper 10
+    400100: Knee, Upper 14
+    400102: Knee, Upper 16
+    400104: Knee, Upper 18
+    400106: Mast
+    400108: Mast Lock
+    400110: Mastfish
+    400112: Mastfish Base
+    400114: Neck
+    400116: Oar 01a
+    400118: Oar 01b
+    400120: Oar 02a
+    400122: Oar 02b
+    400124: Oar 03a
+    400126: Oar 03b
+    400128: Oar 04a
+    400130: Oar 04b
+    400132: Oar 05a
+    400134: Oar 05b
+    400136: Oar 06a
+    400138: Oar 06b
+    400140: Oar 07a
+    400142: Oar 07b
+    400144: Oar 08a
+    400146: Oar 08b
+    400148: Oar 09a
+    400150: Oar 09b
+    400152: Oar 10a
+    400154: Oar 10b
+    400156: Oar 11a
+    400158: Oar 11b
+    400160: Oar 12a
+    400162: Oar 12b
+    400164: Oar 13a
+    400166: Oar 13b
+    400168: Oar 14a
+    400170: Oar 14b
+    400172: Oar 15a
+    400174: Oar 15b
+    400176: Oar 16a
+    400178: Oar 16b
+    400180: Rear Stanchion Base
+    400182: Rear Stanchion Fish
+    400184: Rear Stanchion Pole Base
+    400186: Rear Stanchion Post
+    400188: Rear Stancion Base Hole
+    400190: Strake 01
+    400192: Strake 02
+    400194: Strake 03
+    400196: Strake 04
+    400198: Strake 05
+    400200: Strake 06
+    400202: Strake 07
+    400204: Strake 08
+    400206: Strake 09
+    400208: Strake 10
+    400210: Strake 11
+    400212: Strake 12
+    400214: Strake 13
+    400216: Strake 14
+    400218: Strake 15
+    400220: Strake 16
+    400222: Tiller
+    2100000: Material.001
+    2100002: No Name
+    2100004: Material
+    2300000: Brace - Inside
+    2300002: Brace - Outside
+    2300004: Cross Beam 01
+    2300006: Cross Beam 02
+    2300008: Cross Beam 03
+    2300010: Cross Beam 04
+    2300012: Cross Beam 05
+    2300014: Cross Beam 06
+    2300016: Cross Beam 13
+    2300018: Cross Beam 14
+    2300020: Cross Beam 15
+    2300022: Cross Beam 16
+    2300024: Cross Beam 17
+    2300026: Cross Beam 17a
+    2300028: Cross Beam 18
+    2300030: Cross Beam 18a
+    2300032: Front  Stanchion Pole Base
+    2300034: Front Stanchion Base
+    2300036: Front Stanchion Fish
+    2300038: Front Stanchion Post
+    2300040: Front Stancion Base Hole
+    2300042: Gunwale
+    2300044: Hull Mounting - 1
+    2300046: Hull Mounting - 2
+    2300048: Keel
+    2300050: Keelson Mesh
+    2300052: Knee 01
+    2300054: Knee 02
+    2300056: Knee 03
+    2300058: Knee 04
+    2300060: Knee 05
+    2300062: Knee 06
+    2300064: Knee 07
+    2300066: Knee 08
+    2300068: Knee 09
+    2300070: Knee 10
+    2300072: Knee 11
+    2300074: Knee 13
+    2300076: Knee 14
+    2300078: Knee 15
+    2300080: Knee 16
+    2300082: Knee 17
+    2300084: Knee 18
+    2300086: Knee 19
+    2300088: Knee, Upper 02
+    2300090: Knee, Upper 04
+    2300092: Knee, Upper 06
+    2300094: Knee, Upper 08
+    2300096: Knee, Upper 10
+    2300098: Knee, Upper 14
+    2300100: Knee, Upper 16
+    2300102: Knee, Upper 18
+    2300104: Mast
+    2300106: Mast Lock
+    2300108: Mastfish
+    2300110: Mastfish Base
+    2300112: Neck
+    2300114: Oar 01a
+    2300116: Oar 01b
+    2300118: Oar 02a
+    2300120: Oar 02b
+    2300122: Oar 03a
+    2300124: Oar 03b
+    2300126: Oar 04a
+    2300128: Oar 04b
+    2300130: Oar 05a
+    2300132: Oar 05b
+    2300134: Oar 06a
+    2300136: Oar 06b
+    2300138: Oar 07a
+    2300140: Oar 07b
+    2300142: Oar 08a
+    2300144: Oar 08b
+    2300146: Oar 09a
+    2300148: Oar 09b
+    2300150: Oar 10a
+    2300152: Oar 10b
+    2300154: Oar 11a
+    2300156: Oar 11b
+    2300158: Oar 12a
+    2300160: Oar 12b
+    2300162: Oar 13a
+    2300164: Oar 13b
+    2300166: Oar 14a
+    2300168: Oar 14b
+    2300170: Oar 15a
+    2300172: Oar 15b
+    2300174: Oar 16a
+    2300176: Oar 16b
+    2300178: Rear Stanchion Base
+    2300180: Rear Stanchion Fish
+    2300182: Rear Stanchion Pole Base
+    2300184: Rear Stanchion Post
+    2300186: Rear Stancion Base Hole
+    2300188: Strake 01
+    2300190: Strake 02
+    2300192: Strake 03
+    2300194: Strake 04
+    2300196: Strake 05
+    2300198: Strake 06
+    2300200: Strake 07
+    2300202: Strake 08
+    2300204: Strake 09
+    2300206: Strake 10
+    2300208: Strake 11
+    2300210: Strake 12
+    2300212: Strake 13
+    2300214: Strake 14
+    2300216: Strake 15
+    2300218: Strake 16
+    2300220: Tiller
+    3300000: Brace - Inside
+    3300002: Brace - Outside
+    3300004: Cross Beam 01
+    3300006: Cross Beam 02
+    3300008: Cross Beam 03
+    3300010: Cross Beam 04
+    3300012: Cross Beam 05
+    3300014: Cross Beam 06
+    3300016: Cross Beam 13
+    3300018: Cross Beam 14
+    3300020: Cross Beam 15
+    3300022: Cross Beam 16
+    3300024: Cross Beam 17
+    3300026: Cross Beam 17a
+    3300028: Cross Beam 18
+    3300030: Cross Beam 18a
+    3300032: Front  Stanchion Pole Base
+    3300034: Front Stanchion Base
+    3300036: Front Stanchion Fish
+    3300038: Front Stanchion Post
+    3300040: Front Stancion Base Hole
+    3300042: Gunwale
+    3300044: Hull Mounting - 1
+    3300046: Hull Mounting - 2
+    3300048: Keel
+    3300050: Keelson Mesh
+    3300052: Knee 01
+    3300054: Knee 02
+    3300056: Knee 03
+    3300058: Knee 04
+    3300060: Knee 05
+    3300062: Knee 06
+    3300064: Knee 07
+    3300066: Knee 08
+    3300068: Knee 09
+    3300070: Knee 10
+    3300072: Knee 11
+    3300074: Knee 13
+    3300076: Knee 14
+    3300078: Knee 15
+    3300080: Knee 16
+    3300082: Knee 17
+    3300084: Knee 18
+    3300086: Knee 19
+    3300088: Knee, Upper 02
+    3300090: Knee, Upper 04
+    3300092: Knee, Upper 06
+    3300094: Knee, Upper 08
+    3300096: Knee, Upper 10
+    3300098: Knee, Upper 14
+    3300100: Knee, Upper 16
+    3300102: Knee, Upper 18
+    3300104: Mast
+    3300106: Mast Lock
+    3300108: Mastfish
+    3300110: Mastfish Base
+    3300112: Neck
+    3300114: Oar 01a
+    3300116: Oar 01b
+    3300118: Oar 02a
+    3300120: Oar 02b
+    3300122: Oar 03a
+    3300124: Oar 03b
+    3300126: Oar 04a
+    3300128: Oar 04b
+    3300130: Oar 05a
+    3300132: Oar 05b
+    3300134: Oar 06a
+    3300136: Oar 06b
+    3300138: Oar 07a
+    3300140: Oar 07b
+    3300142: Oar 08a
+    3300144: Oar 08b
+    3300146: Oar 09a
+    3300148: Oar 09b
+    3300150: Oar 10a
+    3300152: Oar 10b
+    3300154: Oar 11a
+    3300156: Oar 11b
+    3300158: Oar 12a
+    3300160: Oar 12b
+    3300162: Oar 13a
+    3300164: Oar 13b
+    3300166: Oar 14a
+    3300168: Oar 14b
+    3300170: Oar 15a
+    3300172: Oar 15b
+    3300174: Oar 16a
+    3300176: Oar 16b
+    3300178: Rear Stanchion Base
+    3300180: Rear Stanchion Fish
+    3300182: Rear Stanchion Pole Base
+    3300184: Rear Stanchion Post
+    3300186: Rear Stancion Base Hole
+    3300188: Strake 01
+    3300190: Strake 02
+    3300192: Strake 03
+    3300194: Strake 04
+    3300196: Strake 05
+    3300198: Strake 06
+    3300200: Strake 07
+    3300202: Strake 08
+    3300204: Strake 09
+    3300206: Strake 10
+    3300208: Strake 11
+    3300210: Strake 12
+    3300212: Strake 13
+    3300214: Strake 14
+    3300216: Strake 15
+    3300218: Strake 16
+    3300220: Tiller
+    4300000: Cross Beam 06
+    4300002: Cross Beam 13
+    4300004: Cross Beam 14
+    4300006: Cross Beam 15
+    4300008: Cross Beam 01
+    4300010: Cross Beam 17a
+    4300012: Cross Beam 18a
+    4300014: Cross Beam 05
+    4300016: Cross Beam 04
+    4300018: Cross Beam 03
+    4300020: Cross Beam 16
+    4300022: Cross Beam 17
+    4300024: Cross Beam 18
+    4300026: Cross Beam 02
+    4300028: Strake 01
+    4300030: Strake 16
+    4300032: Strake 15
+    4300034: Strake 14
+    4300036: Strake 13
+    4300038: Strake 12
+    4300040: Strake 11
+    4300042: Strake 10
+    4300044: Strake 09
+    4300046: Strake 08
+    4300048: Strake 07
+    4300050: Strake 06
+    4300052: Strake 05
+    4300054: Strake 04
+    4300056: Strake 03
+    4300058: Strake 02
+    4300060: Gunwale
+    4300062: Keel
+    4300064: Knee 10
+    4300066: Knee 11
+    4300068: Knee 13
+    4300070: Knee 14
+    4300072: Knee 15
+    4300074: Knee 16
+    4300076: Knee 17
+    4300078: Knee 09
+    4300080: Knee 08
+    4300082: Knee 07
+    4300084: Knee 06
+    4300086: Knee 05
+    4300088: Knee 04
+    4300090: Knee 03
+    4300092: Knee 02
+    4300094: Knee 01
+    4300096: Knee 18
+    4300098: Knee 19
+    4300100: Knee, Upper 02
+    4300102: Knee, Upper 04
+    4300104: Knee, Upper 06
+    4300106: Knee, Upper 08
+    4300108: Knee, Upper 10
+    4300110: Knee, Upper 14
+    4300112: Knee, Upper 16
+    4300114: Knee, Upper 18
+    4300116: Keelson Mesh
+    4300118: Mastfish Base
+    4300120: Mastfish
+    4300122: Mast Lock
+    4300124: Mast
+    4300126: Oar 01a
+    4300128: Oar 02a
+    4300130: Oar 03a
+    4300132: Oar 04a
+    4300134: Oar 05a
+    4300136: Oar 06a
+    4300138: Oar 07a
+    4300140: Oar 08a
+    4300142: Oar 09a
+    4300144: Oar 10a
+    4300146: Oar 11a
+    4300148: Oar 12a
+    4300150: Oar 13a
+    4300152: Oar 14a
+    4300154: Oar 15a
+    4300156: Oar 16a
+    4300158: Oar 01b
+    4300160: Oar 02b
+    4300162: Oar 03b
+    4300164: Oar 04b
+    4300166: Oar 05b
+    4300168: Oar 06b
+    4300170: Oar 07b
+    4300172: Oar 08b
+    4300174: Oar 09b
+    4300176: Oar 10b
+    4300178: Oar 11b
+    4300180: Oar 12b
+    4300182: Oar 13b
+    4300184: Oar 14b
+    4300186: Oar 15b
+    4300188: Oar 16b
+    4300190: Neck
+    4300192: Tiller
+    4300194: Hull Mounting - 1
+    4300196: Hull Mounting - 2
+    4300198: Brace - Outside
+    4300200: Brace - Inside
+    4300202: Front Stanchion Base
+    4300204: Front Stanchion Fish
+    4300206: Front Stanchion Post
+    4300208: Front  Stanchion Pole Base
+    4300210: Front Stancion Base Hole
+    4300212: Rear Stanchion Base
+    4300214: Rear Stanchion Fish
+    4300216: Rear Stanchion Post
+    4300218: Rear Stanchion Pole Base
+    4300220: Rear Stancion Base Hole
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
