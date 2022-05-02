@@ -1,0 +1,24 @@
+
+/* Class = "IBUILabel"; text = "Tilt Offset:"; ObjectID = "3x5-6o-elh"; */
+"3x5-6o-elh.text" = "Tilt Offset:";
+
+/* Class = "IBUIButton"; normalTitle = "Get Location"; ObjectID = "6oY-sF-l2R"; */
+"6oY-sF-l2R.normalTitle" = "Få sted";
+
+/* Class = "IBUILabel"; text = "Error:"; ObjectID = "Ee9-b9-Rqs"; */
+"Ee9-b9-Rqs.text" = "Feil:";
+
+/* Class = "IBUIButton"; normalTitle = "Done"; ObjectID = "EhK-F5-Fcr"; */
+"EhK-F5-Fcr.normalTitle" = "Ferdig";
+
+/* Class = "IBUILabel"; text = "Touch Move:"; ObjectID = "MhT-Z5-Uhc"; */
+"MhT-Z5-Uhc.text" = "Touch Move:";
+
+/* Class = "IBUILabel"; text = "Longitude:"; ObjectID = "bep-gc-CKW"; */
+"bep-gc-CKW.text" = "Longitude:";
+
+/* Class = "IBUILabel"; text = "Latitude:"; ObjectID = "pZc-lT-m6W"; */
+"pZc-lT-m6W.text" = "Latitude:";
+
+/* Class = "IBUIButton"; normalTitle = "<App Name>"; ObjectID = "vwm-0R-qiE"; */
+"vwm-0R-qiE.normalTitle" = "<App Navn>";

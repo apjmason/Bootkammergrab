@@ -1,0 +1,245 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: GeneralGuiAtlas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f514313262e3d141ad017b60809752a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 1639f76f1f67b4676b21ccfdce994ab5, type: 2}
+  items:
+  - name: AlertBG
+    region:
+      serializedVersion: 2
+      x: 0.890625
+      y: 0
+      width: 0.0625
+      height: 0.0625
+    border:
+      m_Left: 15
+      m_Right: 15
+      m_Top: 15
+      m_Bottom: 15
+    rotated: 0
+    sizeInPixels: {x: 32, y: 32}
+    textureGUID: f3f9653cc393247198ebaea563ba47ae
+    deleted: 0
+    texture: {fileID: 0}
+  - name: BlackInfo
+    region:
+      serializedVersion: 2
+      x: 0.75390625
+      y: 0
+      width: 0.1328125
+      height: 0.1328125
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 68, y: 68}
+    textureGUID: 1295f8bb7bce248a3840bc31de619ab9
+    deleted: 0
+    texture: {fileID: 0}
+  - name: GeneralGUIButtonBG
+    region:
+      serializedVersion: 2
+      x: 0.890625
+      y: 0.06640625
+      width: 0.0625
+      height: 0.0625
+    border:
+      m_Left: 8
+      m_Right: 8
+      m_Top: 8
+      m_Bottom: 8
+    rotated: 0
+    sizeInPixels: {x: 32, y: 32}
+    textureGUID: f4cde6dfa26544fd6aa1f2986be545d5
+    deleted: 0
+    texture: {fileID: 0}
+  - name: GeneralGUIProgressBar
+    region:
+      serializedVersion: 2
+      x: 0.95703125
+      y: 0.06640625
+      width: 0.03125
+      height: 0.03125
+    border:
+      m_Left: 3
+      m_Right: 3
+      m_Top: 3
+      m_Bottom: 3
+    rotated: 0
+    sizeInPixels: {x: 16, y: 16}
+    textureGUID: 6aedbd330c920476b94fd27863ba1405
+    deleted: 0
+    texture: {fileID: 0}
+  - name: GeneralGUIProgressBG
+    region:
+      serializedVersion: 2
+      x: 0.95703125
+      y: 0.1015625
+      width: 0.03125
+      height: 0.03125
+    border:
+      m_Left: 5
+      m_Right: 5
+      m_Top: 5
+      m_Bottom: 5
+    rotated: 0
+    sizeInPixels: {x: 16, y: 16}
+    textureGUID: 2709f56ba9df24ed3a7d531ab8948e26
+    deleted: 0
+    texture: {fileID: 0}
+  - name: GeneralGUIVSliderBG
+    region:
+      serializedVersion: 2
+      x: 0.95703125
+      y: 0
+      width: 0.03515625
+      height: 0.0625
+    border:
+      m_Left: 3
+      m_Right: 3
+      m_Top: 10
+      m_Bottom: 10
+    rotated: 0
+    sizeInPixels: {x: 18, y: 32}
+    textureGUID: 84fea32c8627d4aa48a39d13abf04999
+    deleted: 0
+    texture: {fileID: 0}
+  - name: GeneralGUIVSliderThumb
+    region:
+      serializedVersion: 2
+      x: 0.95703125
+      y: 0.13671875
+      width: 0.03125
+      height: 0.03125
+    border:
+      m_Left: 3
+      m_Right: 3
+      m_Top: 3
+      m_Bottom: 3
+    rotated: 0
+    sizeInPixels: {x: 16, y: 16}
+    textureGUID: 2fa4a509477344561a7fcd6d81704f0e
+    deleted: 0
+    texture: {fileID: 0}
+  - name: GeneralGUIWindowBG
+    region:
+      serializedVersion: 2
+      x: 0.890625
+      y: 0.1328125
+      width: 0.0625
+      height: 0.0625
+    border:
+      m_Left: 5
+      m_Right: 5
+      m_Top: 5
+      m_Bottom: 5
+    rotated: 0
+    sizeInPixels: {x: 32, y: 32}
+    textureGUID: 8e1ab4730782b4abca7a11b929934672
+    deleted: 0
+    texture: {fileID: 0}
+  - name: GillSans30
+    region:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0.75
+      height: 0.5
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 384, y: 256}
+    textureGUID: 97b696166755f48ea9ce24c462290c85
+    deleted: 0
+    texture: {fileID: 0}
+  - name: WhiteInfo
+    region:
+      serializedVersion: 2
+      x: 0.75390625
+      y: 0.13671875
+      width: 0.1328125
+      height: 0.1328125
+    border:
+      m_Left: 0
+      m_Right: 0
+      m_Top: 0
+      m_Bottom: 0
+    rotated: 0
+    sizeInPixels: {x: 68, y: 68}
+    textureGUID: 640634a4e72aa4c399f11188ee382250
+    deleted: 0
+    texture: {fileID: 0}
+  - name: WhiteSquare
+    region:
+      serializedVersion: 2
+      x: 0.95703125
+      y: 0.171875
+      width: 0.0078125
+      height: 0.0078125
+    border:
+      m_Left: 1
+      m_Right: 1
+      m_Top: 1
+      m_Bottom: 1
+    rotated: 0
+    sizeInPixels: {x: 4, y: 4}
+    textureGUID: a53528e5a647c479190e4e8344858f21
+    deleted: 0
+    texture: {fileID: 0}
+  generator: 0
+  imageFileGUID: 
+  dataFileGUID: 
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1

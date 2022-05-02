@@ -1,0 +1,19 @@
+/* 
+  InventioBase.strings
+  Unity-iPhone
+
+  Created by Tomas Stenarson on 2014-06-04.
+
+*/
+"Base.LanguageValidator" = "Language OK";
+"Stop" = "Stop";
+"Get Location" = "Get Location";
+"Locations restricted" = "You don't have access to Locations, this application will not function properly";
+"Locations denied" = "You have to give the application access to location services, otherwise it will not work properly";
+"Location Services" = "Location Services";
+"Location unknown" = "There are some problems with Location Services, the application may not function properly";
+"Look at this!" = "Look at this!";
+"Snapshot from SitSim" = "Snapshot from SitSim";
+"Snapshot instruction" = "Tap and hold on the small screen to take a \"now & then\" picture.";
+"Warmup problem title" = "Calibration problem";
+"Warmup problem description" = "The application can't get a good compass and/or GPS reading, please move the device around to improve the calibration process.";

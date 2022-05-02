@@ -1,0 +1,19 @@
+/* 
+  InventioBase.strings
+  Unity-iPhone
+
+  Created by Tomas Stenarson on 2014-06-04.
+
+*/
+"Base.LanguageValidator" = "Språk OK";
+"Stop" = "Stopp";
+"Get Location" = "Hämta position";
+"Locations restricted" = "Du har inte tillgång till Platstjänster, den här applikationen kommer inte fungera korrekt";
+"Locations denied" = "Du måste ge applikationen tillgång till Platstjänster, annars kommer den inte fungera korrekt";
+"Location Services" = "Platstjänster";
+"Location unknown" = "Det är problem med Platstjänster, applikationen kommer inte fungera korrekt";
+"Look at this!" = "Titta på det här!";
+"Snapshot from SitSim" = "Snapshot från SitSim";
+"Snapshot instruction" = "Berör den lilla skärmen för att ta en \"Nu & då\" bild.";
+"Warmup problem title" = "Kalibreringsproblem";
+"Warmup problem description" = "Applikationen kan inte läsa av kompass och/eller GPS ordentligt, rotera enheten för att förbättra kalibreringen.";

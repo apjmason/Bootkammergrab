@@ -1,0 +1,11 @@
+framework module SpatialManagerCore {
+  umbrella header "SpatialManagerCore.h"
+
+  export *
+  module * { export * }
+}
+
+module SpatialManagerCore.Swift {
+    header "SpatialManagerCore-Swift.h"
+    requires objc
+}

@@ -1,0 +1,7 @@
+KEY,EN,SV,NO
+Test.LanguageValidator,"Language OK","Språk OK","Språk OK"
+Test.Depth,"Depth","Djup","Dybde"
+Test.Left,"Left","Vänster","Venstre"
+Test.Right,"Right","Höger","Høyre"
+Test.Increase,"Increase","Öka","Øke"
+Test.Balloon,"A balloon","En ballong","En ballon"

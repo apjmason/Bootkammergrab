@@ -1,0 +1,11 @@
+framework module TrackerNGCore {
+  umbrella header "TrackerNGCore.h"
+
+  export *
+  module * { export * }
+}
+
+module TrackerNGCore.Swift {
+    header "TrackerNGCore-Swift.h"
+    requires objc
+}

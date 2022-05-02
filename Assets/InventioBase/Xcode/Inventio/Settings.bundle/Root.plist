@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+			<key>File</key>
+			<string>Acknowledgements</string>
+			<key>Title</key>
+			<string>Acknowledgements</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Sitsim AR Editor</string>
+            <key>FooterText</key>
+            <string>This application was developed using the Sitsim AR Editor, a Unity3D add-on and framework developed by CodeGrind AB in collaboration with SitsimLab at the Dept. of Media and Communication, University of Oslo, and funded by the CINE-project under the NPA EU Interreg-program.</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>

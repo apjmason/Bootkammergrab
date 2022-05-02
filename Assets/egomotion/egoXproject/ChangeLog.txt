@@ -1,0 +1,77 @@
+EgoXproject ChangeLog
+=====================
+
+---------- 3.0.1 ----------
+- Bug Fix: Various fixes
+
+---------- 3.0.0 ----------
+- Feature: Can now add and configure all capabilities.
+- Feature: Build settings can now be listed and searched for using descriptive names or symbol.
+- Feature: Many, many, many more build settings added to the built in list.
+- Feature: Custom frameworks and libraries are now added in the Files and Folders section.
+- Feature: Embedded framework support.
+- Feature: Can now manage automatic signing.
+- Feature: Can now set Development Team ID.
+- Feature: Scripts can now have custom names.
+- Feature: Settings moved to their own window.
+- Bug Fix: Various.
+
+Unity Version Support
+---------------------
+- Unity 4.x is no longer supported
+- Min supported version is now Unity 5.3.4
+- Separate builds for 5.x series and 2017.x series due to Unity library incompatibility
+
+---------- 2.1.4 ----------
+- Bug Fix: Compatibility fixes for Unity 2017+
+
+---------- 2.1.3 ----------
+- Bug Fix: Compatibility fixes for Unity 5.4+
+
+---------- 2.1.2 ----------
+- Bug Fix: Various fixes
+
+---------- 2.1.1 ----------
+- Bug Fix: Entitlement files are no longer added to the resource build phase
+
+---------- 2.1.0 ----------
+- Feature: Support for Xcode 7.
+- Bug Fix: Framework and library browser now works with Xcode 7.
+- Feature: New tbd files supported.
+- Feature: New menu items to upgrade system dylib entries in change files to tbd files, and to downgrade back again.
+
+---------- 2.0.0 ----------
+- Feature: Large rewrite to make things much better.
+- Feature: New unified editor. Make all changes in a single window.
+- Feature: New scripting interface.
+- Feature: Can now add folders as well as individual files.
+- Feature: Can now set the post build script shell.
+- Feature: Customisable ignored files list.
+- Feature: Ability to specify the location of Xcode.
+- Feature: EgoXproject.dll can now be easily moved to a different location.
+- Feature: Will now check for updates.
+- Feature: Experimental support for Xcode 3.1-compatible and 6.3-compatible project files. (Unity generates Xcode 3.2-compatible files, but some plugins misbehave and change the version).
+- Feature: New tool to merge change files.
+- Bugs: There may be some. This is a large update, and while extensive testing has been done some are bound to get through. Please report them to support@egomotion.co.uk, so we can fix them ASAP.
+
+---------- 1.1.0 ----------
+- Feature: Added support for additional file types including Core Data Models, and Asset Catalogs.
+- Feature: Can now add container files and folders.
+- Feature: EgoXproject now runs at a much later stage during PostProcessBuild to ensure its changes are not destroyed by other plugins. Callback order value is now 5000.
+- Bug Fix: Fixed critical bug introduced with 1.0.3 that made plist files sometimes not readable by Xcode.
+
+---------- 1.0.3 ----------
+- Feature: Now works with Unity 5 generated iOS projects.
+- Feature: Updated to handle the Unity 4.6.1 and Unity 5 generated Info.plist files that are missing the DTD element.
+
+---------- 1.0.2 ----------
+- Bug Fix: Fixed bug where append builds could become corrupted.
+- Bug Fix: Fixed bug where bundle files could not be copied to the iOS project folder.
+- Bug Fix: Unwanted files are no longer copied to the iOS project folder (such as meta files).
+- Bug Fix: Bundle files can now be copied to the Xcode project folder.
+
+---------- 1.0.1 ----------
+- Bug Fix: Misc bug fixes.
+
+---------- 1.0 ----------
+- Initial Release.
