@@ -405,7 +405,7 @@ public class SitSimEditor : EditorWindow
                         * 
                         * Using notification temporarily
                         */
-                        string notification = EditorGUILayout.TextField("Move the origin into desired location", null);
+                        string notification = EditorGUILayout.TextField("Move the origin into desired location");
                         SceneView.lastActiveSceneView.ShowNotification(new GUIContent(notification));
                     }
                     GUILayout.FlexibleSpace();
@@ -526,7 +526,7 @@ public class SitSimEditor : EditorWindow
                  * 
                  * Using notification temporarily
                  */
-                string notification = EditorGUILayout.TextField("Move the player into desired location", null);
+                string notification = EditorGUILayout.TextField("Move the player into desired location");
                 SceneView.lastActiveSceneView.ShowNotification(new GUIContent(notification));
             }
             GUILayout.FlexibleSpace();
