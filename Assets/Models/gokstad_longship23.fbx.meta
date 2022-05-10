@@ -563,7 +563,22 @@ ModelImporter:
     4300216: Rear Stanchion Post
     4300218: Rear Stanchion Pole Base
     4300220: Rear Stancion Base Hole
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: b74c3061a7e31474a9b80424d803a953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: b74c3061a7e31474a9b80424d803a953, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b74c3061a7e31474a9b80424d803a953, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
